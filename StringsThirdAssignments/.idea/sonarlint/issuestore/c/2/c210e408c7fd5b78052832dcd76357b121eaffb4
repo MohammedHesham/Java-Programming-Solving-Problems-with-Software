@@ -1,0 +1,7 @@
+
+^squid:UnusedPrivateMethodG"2Remove this unused private "printAllGenes" method.(…ûâı8“‚Å•¥.
+1squid:S1220""Move this file to a named package.
+@squid:S1643¦"Use a StringBuilder instead.(ºçğşÿÿÿÿ8îËö–¥.
+jsquid:S3027¨"FPut single-quotes around 'T' to use the faster "indexOf(char)" method.(¶ñûüùÿÿÿÿ8îËö–¥.
+esquid:S3027"FPut single-quotes around 'T' to use the faster "indexOf(char)" method.(ò½úú8îËö–¥.
+usquid:S00117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ŸÄ¦øÿÿÿÿ8ÿ°â•¥.
