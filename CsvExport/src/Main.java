@@ -1,6 +1,5 @@
 import org.apache.commons.csv.*;
 import edu.duke.FileResource;
-
 import java.io.IOException;
 
 public class Main {
@@ -13,8 +12,8 @@ public class Main {
         FileResource fr = new FileResource();
         CSVParser parser = fr.getCSVParser();
 //        System.out.println(countryInfo(parser, "Nauru"));
-//        listExportersTwoProducts(parser, "fish", "nuts");
-//        System.out.println(numberOfExporters(parser,"gold"));
+//        listExportersTwoProducts(parser, "cotton", "flowers");
+//        System.out.println(numberOfExporters(parser,"cocoa"));
         bigExporters(parser, "$999,999,999,999");
     }
 
