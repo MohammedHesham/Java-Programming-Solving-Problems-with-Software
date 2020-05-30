@@ -1,0 +1,14 @@
+
+dsquid:S1192@"HDefine a constant instead of duplicating this literal "DateUTC" 3 times.(¿°Ûßúÿÿÿÿ
+dsquid:S1192"MDefine a constant instead of duplicating this literal "TemperatureF" 8 times.(óÃè¾
+`squid:S1192L"IDefine a constant instead of duplicating this literal "Humidity" 6 times.(õéíº
+1squid:S1220""Move this file to a named package.
+csquid:S2259("GA "NullPointerException" could be thrown; "csvRecord" is nullable here.(Ïî›žþÿÿÿÿ
+gsquid:S2259@"KA "NullPointerException" could be thrown; "coldestRecord" is nullable here.(¿°Ûßúÿÿÿÿ
+Xsquid:S2259]"AA "NullPointerException" could be thrown; "csv" is nullable here.(÷ÅÂ¤
+bsquid:S22596"KA "NullPointerException" could be thrown; "currentRecord" is nullable here.(óÃè¾
+zsquid:S2259Œ"]"NullPointerException" will be thrown when invoking method "lowestHumidityBetween2Records()".(‡™ˆÊüÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148S"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148z"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+@squid:S1148²"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
